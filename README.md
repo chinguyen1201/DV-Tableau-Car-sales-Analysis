@@ -9,7 +9,7 @@ The project for the course **Data Visualization - CSC10108 - HCMUS**
 - MSc. Tiết Gia Hồng 
 - MSc. Phạm Minh Tú
 
-### Group 08 - Semester 1 / 2023-2024
+### Group 08 - 21HTTT (Semester 1 / 2023-2024)
 - 20127350_Phan Thanh Thúy
 - 21127234_Nguyễn Lê Anh Chi
 - 21127235_Nguyễn Xuân Quỳnh Chi
